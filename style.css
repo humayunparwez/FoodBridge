@@ -419,4 +419,17 @@ footer {
     text-decoration: none;
 
     }
+    .login-container select {
+
+    padding: 13px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 8px;
+
+    font-size: 15px;
+
+    background: white;
+
+    }
 }
