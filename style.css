@@ -305,5 +305,22 @@ footer {
         font-size: 90px;
 
     }
+    .login-button {
+
+    display: inline-block;
+
+    background: #17834b;
+
+    color: white;
+
+    padding: 12px 22px;
+
+    border-radius: 8px;
+
+    font-size: 15px;
+
+    text-decoration: none;
+
+    }
 
 }
