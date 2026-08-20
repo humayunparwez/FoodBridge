@@ -20,3 +20,12 @@ const supabase = window.supabase.createClient(
 function getStarted() {
     alert("Welcome to FoodBridge! 🍔");
 }
+if (typeof supabase !== "undefined") {
+
+    console.log("Supabase connected successfully!");
+
+} else {
+
+    alert("Supabase library failed to load.");
+
+}
