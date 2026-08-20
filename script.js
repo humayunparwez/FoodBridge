@@ -1,3 +1,4 @@
+alert("TEST: script.js loaded");
 // ===============================
 // FoodBridge - Supabase Connection
 // ===============================
