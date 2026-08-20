@@ -22,10 +22,10 @@ function getStarted() {
 }
 if (typeof supabase !== "undefined") {
 
-    console.log("Supabase connected successfully!");
+    alert("✅ FoodBridge is connected to Supabase!");
 
 } else {
 
-    alert("Supabase library failed to load.");
+    alert("❌ Supabase connection failed!");
 
 }
