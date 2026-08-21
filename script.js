@@ -1,4 +1,4 @@
-alert("TEST: script.js loaded");
+alert("FoodBridge JavaScript is working!");
 // ===============================
 // FoodBridge - Supabase Connection
 // ===============================
